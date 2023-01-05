@@ -1,4 +1,5 @@
 rootProject.name = 'inc-state-db'
 
 include 'state-db'
+include 'heku-tools:tools'
 
