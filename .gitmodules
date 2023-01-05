@@ -1,0 +1,3 @@
+[submodule "heku-tools"]
+	path = heku-tools
+	url = https://github.com/Nashatyrev/heku-tools
